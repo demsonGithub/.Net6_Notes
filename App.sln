@@ -3,15 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_Startup", "1. 启动过程\1_Startup.csproj", "{8404492E-A41E-4510-A9DA-C3AD4E2FF18B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Startup", "Startup\Startup.csproj", "{8404492E-A41E-4510-A9DA-C3AD4E2FF18B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.启动配置", "1.启动配置", "{61F90859-D541-454F-B6AF-CE9C48FED6B9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.依赖注入", "2.依赖注入", "{B8D0C64A-952C-4600-A18D-3FC3263A8381}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInject", "DependencyInject\DependencyInject.csproj", "{63EE37AF-3E9D-4DFE-A08F-B8FB1177D3F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyInject", "DependencyInject\DependencyInject.csproj", "{63EE37AF-3E9D-4DFE-A08F-B8FB1177D3F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjectionAutofac", "DependencyInjectionAutofac\DependencyInjectionAutofac.csproj", "{4C0D4BBB-EDEB-4E68-AED6-8D1CEC0F0046}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyInjectionAutofac", "DependencyInjectionAutofac\DependencyInjectionAutofac.csproj", "{4C0D4BBB-EDEB-4E68-AED6-8D1CEC0F0046}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.配置文件读取", "3.配置文件读取", "{084CA2F5-1812-470F-A18D-70488880C34D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigurationDemo", "ConfigurationDemo\ConfigurationDemo.csproj", "{AA2F1EA7-5A0F-4979-B74F-E7AEEEA135A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigurationFileDemo", "ConfigurationFileDemo\ConfigurationFileDemo.csproj", "{0897421D-4A95-4F5D-8D87-3CF86A1263C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +37,14 @@ Global
 		{4C0D4BBB-EDEB-4E68-AED6-8D1CEC0F0046}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C0D4BBB-EDEB-4E68-AED6-8D1CEC0F0046}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C0D4BBB-EDEB-4E68-AED6-8D1CEC0F0046}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA2F1EA7-5A0F-4979-B74F-E7AEEEA135A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA2F1EA7-5A0F-4979-B74F-E7AEEEA135A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA2F1EA7-5A0F-4979-B74F-E7AEEEA135A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA2F1EA7-5A0F-4979-B74F-E7AEEEA135A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0897421D-4A95-4F5D-8D87-3CF86A1263C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0897421D-4A95-4F5D-8D87-3CF86A1263C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0897421D-4A95-4F5D-8D87-3CF86A1263C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0897421D-4A95-4F5D-8D87-3CF86A1263C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,6 +53,8 @@ Global
 		{8404492E-A41E-4510-A9DA-C3AD4E2FF18B} = {61F90859-D541-454F-B6AF-CE9C48FED6B9}
 		{63EE37AF-3E9D-4DFE-A08F-B8FB1177D3F8} = {B8D0C64A-952C-4600-A18D-3FC3263A8381}
 		{4C0D4BBB-EDEB-4E68-AED6-8D1CEC0F0046} = {B8D0C64A-952C-4600-A18D-3FC3263A8381}
+		{AA2F1EA7-5A0F-4979-B74F-E7AEEEA135A6} = {084CA2F5-1812-470F-A18D-70488880C34D}
+		{0897421D-4A95-4F5D-8D87-3CF86A1263C6} = {084CA2F5-1812-470F-A18D-70488880C34D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6258066F-2788-461F-A8C2-E436A1DB7928}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bnH1emGehZgvnp+wP3Ht0XChsAEgLMbV9TUAqmSLPJb7taHKR68dSkM1kBpM2Cz12/pJ2rw1vOS2yJljaANARw==",
+  "success": true,
+  "projectFilePath": "D:\\GitRepository\\.Net6_Notes\\ConfigurationDemo\\ConfigurationDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wangzhixiong\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\wangzhixiong\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\wangzhixiong\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\wangzhixiong\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

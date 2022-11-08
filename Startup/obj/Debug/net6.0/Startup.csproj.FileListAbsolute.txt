@@ -1,0 +1,48 @@
+D:\GitRepository\.Net6_Notes\1. 启动过程\bin\Debug\net6.0\appsettings.Development.json
+D:\GitRepository\.Net6_Notes\1. 启动过程\bin\Debug\net6.0\appsettings.json
+D:\GitRepository\.Net6_Notes\1. 启动过程\bin\Debug\net6.0\Startup.exe
+D:\GitRepository\.Net6_Notes\1. 启动过程\bin\Debug\net6.0\Startup.deps.json
+D:\GitRepository\.Net6_Notes\1. 启动过程\bin\Debug\net6.0\Startup.runtimeconfig.json
+D:\GitRepository\.Net6_Notes\1. 启动过程\bin\Debug\net6.0\Startup.dll
+D:\GitRepository\.Net6_Notes\1. 启动过程\bin\Debug\net6.0\Startup.pdb
+D:\GitRepository\.Net6_Notes\1. 启动过程\bin\Debug\net6.0\Autofac.dll
+D:\GitRepository\.Net6_Notes\1. 启动过程\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+D:\GitRepository\.Net6_Notes\1. 启动过程\obj\Debug\net6.0\Startup.csproj.AssemblyReference.cache
+D:\GitRepository\.Net6_Notes\1. 启动过程\obj\Debug\net6.0\Startup.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitRepository\.Net6_Notes\1. 启动过程\obj\Debug\net6.0\Startup.AssemblyInfoInputs.cache
+D:\GitRepository\.Net6_Notes\1. 启动过程\obj\Debug\net6.0\Startup.AssemblyInfo.cs
+D:\GitRepository\.Net6_Notes\1. 启动过程\obj\Debug\net6.0\Startup.csproj.CoreCompileInputs.cache
+D:\GitRepository\.Net6_Notes\1. 启动过程\obj\Debug\net6.0\Startup.MvcApplicationPartsAssemblyInfo.cache
+D:\GitRepository\.Net6_Notes\1. 启动过程\obj\Debug\net6.0\staticwebassets.build.json
+D:\GitRepository\.Net6_Notes\1. 启动过程\obj\Debug\net6.0\staticwebassets.development.json
+D:\GitRepository\.Net6_Notes\1. 启动过程\obj\Debug\net6.0\scopedcss\bundle\Startup.styles.css
+D:\GitRepository\.Net6_Notes\1. 启动过程\obj\Debug\net6.0\Startup.csproj.CopyComplete
+D:\GitRepository\.Net6_Notes\1. 启动过程\obj\Debug\net6.0\Startup.dll
+D:\GitRepository\.Net6_Notes\1. 启动过程\obj\Debug\net6.0\refint\Startup.dll
+D:\GitRepository\.Net6_Notes\1. 启动过程\obj\Debug\net6.0\Startup.pdb
+D:\GitRepository\.Net6_Notes\1. 启动过程\obj\Debug\net6.0\Startup.genruntimeconfig.cache
+D:\GitRepository\.Net6_Notes\1. 启动过程\obj\Debug\net6.0\ref\Startup.dll
+D:\GitRepository\.Net6_Notes\Startup\bin\Debug\net6.0\appsettings.Development.json
+D:\GitRepository\.Net6_Notes\Startup\bin\Debug\net6.0\appsettings.json
+D:\GitRepository\.Net6_Notes\Startup\bin\Debug\net6.0\Startup.exe
+D:\GitRepository\.Net6_Notes\Startup\bin\Debug\net6.0\Startup.deps.json
+D:\GitRepository\.Net6_Notes\Startup\bin\Debug\net6.0\Startup.runtimeconfig.json
+D:\GitRepository\.Net6_Notes\Startup\bin\Debug\net6.0\Startup.dll
+D:\GitRepository\.Net6_Notes\Startup\bin\Debug\net6.0\Startup.pdb
+D:\GitRepository\.Net6_Notes\Startup\bin\Debug\net6.0\Autofac.dll
+D:\GitRepository\.Net6_Notes\Startup\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+D:\GitRepository\.Net6_Notes\Startup\obj\Debug\net6.0\Startup.csproj.AssemblyReference.cache
+D:\GitRepository\.Net6_Notes\Startup\obj\Debug\net6.0\Startup.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitRepository\.Net6_Notes\Startup\obj\Debug\net6.0\Startup.AssemblyInfoInputs.cache
+D:\GitRepository\.Net6_Notes\Startup\obj\Debug\net6.0\Startup.AssemblyInfo.cs
+D:\GitRepository\.Net6_Notes\Startup\obj\Debug\net6.0\Startup.csproj.CoreCompileInputs.cache
+D:\GitRepository\.Net6_Notes\Startup\obj\Debug\net6.0\Startup.MvcApplicationPartsAssemblyInfo.cache
+D:\GitRepository\.Net6_Notes\Startup\obj\Debug\net6.0\staticwebassets.build.json
+D:\GitRepository\.Net6_Notes\Startup\obj\Debug\net6.0\staticwebassets.development.json
+D:\GitRepository\.Net6_Notes\Startup\obj\Debug\net6.0\scopedcss\bundle\Startup.styles.css
+D:\GitRepository\.Net6_Notes\Startup\obj\Debug\net6.0\Startup.csproj.CopyComplete
+D:\GitRepository\.Net6_Notes\Startup\obj\Debug\net6.0\Startup.dll
+D:\GitRepository\.Net6_Notes\Startup\obj\Debug\net6.0\refint\Startup.dll
+D:\GitRepository\.Net6_Notes\Startup\obj\Debug\net6.0\Startup.pdb
+D:\GitRepository\.Net6_Notes\Startup\obj\Debug\net6.0\Startup.genruntimeconfig.cache
+D:\GitRepository\.Net6_Notes\Startup\obj\Debug\net6.0\ref\Startup.dll

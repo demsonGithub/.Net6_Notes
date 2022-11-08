@@ -1,0 +1,7 @@
+{
+  "key1": "from json file",
+  "MySettings1": {
+    "Name": "John Smith",
+    "Age": "25"
+  }
+}

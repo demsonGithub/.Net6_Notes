@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6h9HSsCQYzhBUXPS82gLdxoDpbU01J0LdbzcpU4iWY3li4pfLlt05xkxVxXaxQM8+OEldFA9/omJJwBFfnCj7w==",
+  "dgSpecHash": "Ir4BimvksWW0E/XpP7lZf6BzSWg4jKfaJipZyFUCdf6vRpS5mAkxZKz2YymChTMKLNSPxio+KUoLHd0EL2CgAA==",
   "success": true,
-  "projectFilePath": "D:\\CodeDemo\\.NET 6\\App\\DependencyInjectionAutofac\\DependencyInjectionAutofac.csproj",
+  "projectFilePath": "D:\\GitRepository\\.Net6_Notes\\DependencyInjectionAutofac\\DependencyInjectionAutofac.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wangzhixiong\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
     "C:\\Users\\wangzhixiong\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",

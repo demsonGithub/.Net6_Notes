@@ -25,3 +25,30 @@ D:\CodeDemo\.NET 6\App\DependencyInject\obj\Debug\net6.0\refint\DependencyInject
 D:\CodeDemo\.NET 6\App\DependencyInject\obj\Debug\net6.0\DependencyInject.pdb
 D:\CodeDemo\.NET 6\App\DependencyInject\obj\Debug\net6.0\DependencyInject.genruntimeconfig.cache
 D:\CodeDemo\.NET 6\App\DependencyInject\obj\Debug\net6.0\ref\DependencyInject.dll
+D:\GitRepository\.Net6_Notes\DependencyInject\bin\Debug\net6.0\appsettings.Development.json
+D:\GitRepository\.Net6_Notes\DependencyInject\bin\Debug\net6.0\appsettings.json
+D:\GitRepository\.Net6_Notes\DependencyInject\bin\Debug\net6.0\DependencyInject.exe
+D:\GitRepository\.Net6_Notes\DependencyInject\bin\Debug\net6.0\DependencyInject.deps.json
+D:\GitRepository\.Net6_Notes\DependencyInject\bin\Debug\net6.0\DependencyInject.runtimeconfig.json
+D:\GitRepository\.Net6_Notes\DependencyInject\bin\Debug\net6.0\DependencyInject.dll
+D:\GitRepository\.Net6_Notes\DependencyInject\bin\Debug\net6.0\DependencyInject.pdb
+D:\GitRepository\.Net6_Notes\DependencyInject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\GitRepository\.Net6_Notes\DependencyInject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GitRepository\.Net6_Notes\DependencyInject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GitRepository\.Net6_Notes\DependencyInject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GitRepository\.Net6_Notes\DependencyInject\obj\Debug\net6.0\DependencyInject.csproj.AssemblyReference.cache
+D:\GitRepository\.Net6_Notes\DependencyInject\obj\Debug\net6.0\DependencyInject.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitRepository\.Net6_Notes\DependencyInject\obj\Debug\net6.0\DependencyInject.AssemblyInfoInputs.cache
+D:\GitRepository\.Net6_Notes\DependencyInject\obj\Debug\net6.0\DependencyInject.AssemblyInfo.cs
+D:\GitRepository\.Net6_Notes\DependencyInject\obj\Debug\net6.0\DependencyInject.csproj.CoreCompileInputs.cache
+D:\GitRepository\.Net6_Notes\DependencyInject\obj\Debug\net6.0\DependencyInject.MvcApplicationPartsAssemblyInfo.cs
+D:\GitRepository\.Net6_Notes\DependencyInject\obj\Debug\net6.0\DependencyInject.MvcApplicationPartsAssemblyInfo.cache
+D:\GitRepository\.Net6_Notes\DependencyInject\obj\Debug\net6.0\staticwebassets.build.json
+D:\GitRepository\.Net6_Notes\DependencyInject\obj\Debug\net6.0\staticwebassets.development.json
+D:\GitRepository\.Net6_Notes\DependencyInject\obj\Debug\net6.0\scopedcss\bundle\DependencyInject.styles.css
+D:\GitRepository\.Net6_Notes\DependencyInject\obj\Debug\net6.0\DependencyInject.csproj.CopyComplete
+D:\GitRepository\.Net6_Notes\DependencyInject\obj\Debug\net6.0\DependencyInject.dll
+D:\GitRepository\.Net6_Notes\DependencyInject\obj\Debug\net6.0\refint\DependencyInject.dll
+D:\GitRepository\.Net6_Notes\DependencyInject\obj\Debug\net6.0\DependencyInject.pdb
+D:\GitRepository\.Net6_Notes\DependencyInject\obj\Debug\net6.0\DependencyInject.genruntimeconfig.cache
+D:\GitRepository\.Net6_Notes\DependencyInject\obj\Debug\net6.0\ref\DependencyInject.dll

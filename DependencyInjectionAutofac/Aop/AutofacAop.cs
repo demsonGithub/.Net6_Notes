@@ -6,11 +6,11 @@ namespace DependencyInjectionAutofac.Aop
     {
         public void Intercept(IInvocation invocation)
         {
-            Console.WriteLine("执行前");
+            Console.WriteLine("执行前:" + DateTime.Now);
 
             invocation.Proceed();
 
-            Console.WriteLine("执行后");
+            Console.WriteLine("执行后:" + DateTime.Now);
         }
     }
 }
