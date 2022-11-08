@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "+ZYYY02GdJlSr7n/4/ECr2uuCJWCbbOsZeZp97QtbCm3Fd+3ISI0eNzKkRj+29x28izl0N6l1UhqAThWdcorwQ==",
+  "success": true,
+  "projectFilePath": "D:\\CodeDemo\\.NET 6\\App\\DependencyInject\\DependencyInject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wangzhixiong\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\wangzhixiong\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\wangzhixiong\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\wangzhixiong\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\wangzhixiong\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\wangzhixiong\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

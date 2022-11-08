@@ -1,0 +1,24 @@
+D:\CodeDemo\.NET 6\App\1. 启动过程\bin\Debug\net6.0\appsettings.Development.json
+D:\CodeDemo\.NET 6\App\1. 启动过程\bin\Debug\net6.0\appsettings.json
+D:\CodeDemo\.NET 6\App\1. 启动过程\bin\Debug\net6.0\1. 启动过程.exe
+D:\CodeDemo\.NET 6\App\1. 启动过程\bin\Debug\net6.0\1. 启动过程.deps.json
+D:\CodeDemo\.NET 6\App\1. 启动过程\bin\Debug\net6.0\1. 启动过程.runtimeconfig.json
+D:\CodeDemo\.NET 6\App\1. 启动过程\bin\Debug\net6.0\1. 启动过程.dll
+D:\CodeDemo\.NET 6\App\1. 启动过程\bin\Debug\net6.0\1. 启动过程.pdb
+D:\CodeDemo\.NET 6\App\1. 启动过程\obj\Debug\net6.0\1. 启动过程.csproj.AssemblyReference.cache
+D:\CodeDemo\.NET 6\App\1. 启动过程\obj\Debug\net6.0\1. 启动过程.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeDemo\.NET 6\App\1. 启动过程\obj\Debug\net6.0\1. 启动过程.AssemblyInfoInputs.cache
+D:\CodeDemo\.NET 6\App\1. 启动过程\obj\Debug\net6.0\1. 启动过程.AssemblyInfo.cs
+D:\CodeDemo\.NET 6\App\1. 启动过程\obj\Debug\net6.0\1. 启动过程.csproj.CoreCompileInputs.cache
+D:\CodeDemo\.NET 6\App\1. 启动过程\obj\Debug\net6.0\1. 启动过程.MvcApplicationPartsAssemblyInfo.cache
+D:\CodeDemo\.NET 6\App\1. 启动过程\obj\Debug\net6.0\staticwebassets.build.json
+D:\CodeDemo\.NET 6\App\1. 启动过程\obj\Debug\net6.0\staticwebassets.development.json
+D:\CodeDemo\.NET 6\App\1. 启动过程\obj\Debug\net6.0\scopedcss\bundle\1. 启动过程.styles.css
+D:\CodeDemo\.NET 6\App\1. 启动过程\obj\Debug\net6.0\1. 启动过程.dll
+D:\CodeDemo\.NET 6\App\1. 启动过程\obj\Debug\net6.0\refint\1. 启动过程.dll
+D:\CodeDemo\.NET 6\App\1. 启动过程\obj\Debug\net6.0\1. 启动过程.pdb
+D:\CodeDemo\.NET 6\App\1. 启动过程\obj\Debug\net6.0\1. 启动过程.genruntimeconfig.cache
+D:\CodeDemo\.NET 6\App\1. 启动过程\obj\Debug\net6.0\ref\1. 启动过程.dll
+D:\CodeDemo\.NET 6\App\1. 启动过程\bin\Debug\net6.0\Autofac.dll
+D:\CodeDemo\.NET 6\App\1. 启动过程\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+D:\CodeDemo\.NET 6\App\1. 启动过程\obj\Debug\net6.0\1. 启动过程.csproj.CopyComplete
