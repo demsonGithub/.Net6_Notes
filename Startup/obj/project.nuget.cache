@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dkbu+7M2Ibp8RXCjH3Eh92n1Y1CQZ8OGabjp6sMasde6Ko3Tn9wlZrBenEentNF/8NLM2AC7TOCeQHrsJbfVAw==",
+  "dgSpecHash": "EaTL5CSl9nTdVRAhRg3yyZBUTHUAq+aAQGifpu2gfZGijuJohrdix9+baht1rzvzTlebD2+wWo8Aqi0OuSpovw==",
   "success": true,
-  "projectFilePath": "D:\\GitRepository\\.Net6_Notes\\Startup\\Startup.csproj",
+  "projectFilePath": "D:\\CodeDemo\\.NET 6\\App\\Startup\\Startup.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wangzhixiong\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
     "C:\\Users\\wangzhixiong\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",

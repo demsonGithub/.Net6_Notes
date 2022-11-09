@@ -1,0 +1,195 @@
+[14:46:31.554] [DBG]  Debug
+
+
+[14:46:31.586] [INF]  LogInformation
+
+
+[14:46:31.589] [WRN]  LogWarning
+
+
+[14:46:31.590] [ERR]  LogError
+
+
+[14:46:31.592] [FTL]  LogCritical
+
+
+[14:46:32.266] [INF]  Now listening on: http://localhost:5273
+Microsoft.Hosting.Lifetime
+
+[14:46:32.274] [INF]  Application started. Press Ctrl+C to shut down.
+Microsoft.Hosting.Lifetime
+
+[14:46:32.275] [INF]  Hosting environment: Development
+Microsoft.Hosting.Lifetime
+
+[14:46:32.276] [INF]  Content root path: D:\CodeDemo\.NET 6\App\SerilogDemo\
+Microsoft.Hosting.Lifetime
+
+[14:47:20.482] [INF]  LogInformation
+
+
+[14:47:20.505] [WRN]  LogWarning
+
+
+[14:47:20.506] [ERR]  LogError
+
+
+[14:47:20.506] [FTL]  LogCritical
+
+
+[14:47:21.203] [INF]  Now listening on: http://localhost:5273
+Microsoft.Hosting.Lifetime
+
+[14:47:21.211] [INF]  Application started. Press Ctrl+C to shut down.
+Microsoft.Hosting.Lifetime
+
+[14:47:21.212] [INF]  Hosting environment: Development
+Microsoft.Hosting.Lifetime
+
+[14:47:21.213] [INF]  Content root path: D:\CodeDemo\.NET 6\App\SerilogDemo\
+Microsoft.Hosting.Lifetime
+
+[14:47:53.119] [INF]  LogInformation
+
+
+[14:47:53.142] [WRN]  LogWarning
+
+
+[14:47:53.143] [ERR]  LogError
+
+
+[14:47:53.144] [FTL]  LogCritical
+
+
+[14:47:53.814] [INF]  Now listening on: http://localhost:5273
+Microsoft.Hosting.Lifetime
+
+[14:47:53.822] [INF]  Application started. Press Ctrl+C to shut down.
+Microsoft.Hosting.Lifetime
+
+[14:47:53.823] [INF]  Hosting environment: Development
+Microsoft.Hosting.Lifetime
+
+[14:47:53.823] [INF]  Content root path: D:\CodeDemo\.NET 6\App\SerilogDemo\
+Microsoft.Hosting.Lifetime
+
+[14:47:54.663] [INF]  Request starting HTTP/1.1 GET http://localhost:5273/swagger/index.html - -
+Microsoft.AspNetCore.Hosting.Diagnostics
+
+[14:47:55.327] [INF]  Request starting HTTP/1.1 GET http://localhost:5273/_framework/aspnetcore-browser-refresh.js - -
+Microsoft.AspNetCore.Hosting.Diagnostics
+
+[14:47:55.327] [INF]  Request starting HTTP/1.1 GET http://localhost:5273/_vs/browserLink - -
+Microsoft.AspNetCore.Hosting.Diagnostics
+
+[14:47:55.346] [INF]  Request finished HTTP/1.1 GET http://localhost:5273/swagger/index.html - - - 200 - text/html;charset=utf-8 687.4962ms
+Microsoft.AspNetCore.Hosting.Diagnostics
+
+[14:47:55.348] [INF]  Request finished HTTP/1.1 GET http://localhost:5273/_framework/aspnetcore-browser-refresh.js - - - 200 11992 application/javascript;+charset=utf-8 20.5260ms
+Microsoft.AspNetCore.Hosting.Diagnostics
+
+[14:47:55.423] [INF]  Request finished HTTP/1.1 GET http://localhost:5273/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 95.4959ms
+Microsoft.AspNetCore.Hosting.Diagnostics
+
+[14:47:55.522] [INF]  Request starting HTTP/1.1 GET http://localhost:5273/swagger/v1/swagger.json - -
+Microsoft.AspNetCore.Hosting.Diagnostics
+
+[14:47:55.687] [INF]  Request finished HTTP/1.1 GET http://localhost:5273/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 164.3600ms
+Microsoft.AspNetCore.Hosting.Diagnostics
+
+Time:2022-11-09 14:51:32.739  Level：[INF]-----[]
+Message: LogInformation
+
+Time:2022-11-09 14:51:32.769  Level：[WRN]-----[]
+Message: LogWarning
+
+Time:2022-11-09 14:51:32.770  Level：[ERR]-----[]
+Message: LogError
+
+Time:2022-11-09 14:51:32.776  Level：[FTL]-----[]
+Message: LogCritical
+
+Time:2022-11-09 14:51:33.435  Level：[INF]-----[Microsoft.Hosting.Lifetime]
+Message: Now listening on: http://localhost:5273
+
+Time:2022-11-09 14:51:33.444  Level：[INF]-----[Microsoft.Hosting.Lifetime]
+Message: Application started. Press Ctrl+C to shut down.
+
+Time:2022-11-09 14:51:33.445  Level：[INF]-----[Microsoft.Hosting.Lifetime]
+Message: Hosting environment: Development
+
+Time:2022-11-09 14:51:33.446  Level：[INF]-----[Microsoft.Hosting.Lifetime]
+Message: Content root path: D:\CodeDemo\.NET 6\App\SerilogDemo\
+
+Time:2022-11-09 14:51:34.136  Level：[INF]-----[Microsoft.AspNetCore.Hosting.Diagnostics]
+Message: Request starting HTTP/1.1 GET http://localhost:5273/swagger/index.html - -
+
+Time:2022-11-09 14:51:34.830  Level：[INF]-----[Microsoft.AspNetCore.Hosting.Diagnostics]
+Message: Request starting HTTP/1.1 GET http://localhost:5273/_framework/aspnetcore-browser-refresh.js - -
+
+Time:2022-11-09 14:51:34.831  Level：[INF]-----[Microsoft.AspNetCore.Hosting.Diagnostics]
+Message: Request starting HTTP/1.1 GET http://localhost:5273/_vs/browserLink - -
+
+Time:2022-11-09 14:51:34.853  Level：[INF]-----[Microsoft.AspNetCore.Hosting.Diagnostics]
+Message: Request finished HTTP/1.1 GET http://localhost:5273/swagger/index.html - - - 200 - text/html;charset=utf-8 722.1175ms
+
+Time:2022-11-09 14:51:34.889  Level：[INF]-----[Microsoft.AspNetCore.Hosting.Diagnostics]
+Message: Request finished HTTP/1.1 GET http://localhost:5273/_framework/aspnetcore-browser-refresh.js - - - 200 11992 application/javascript;+charset=utf-8 58.4914ms
+
+Time:2022-11-09 14:51:34.929  Level：[INF]-----[Microsoft.AspNetCore.Hosting.Diagnostics]
+Message: Request finished HTTP/1.1 GET http://localhost:5273/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 98.5660ms
+
+Time:2022-11-09 14:51:35.037  Level：[INF]-----[Microsoft.AspNetCore.Hosting.Diagnostics]
+Message: Request starting HTTP/1.1 GET http://localhost:5273/swagger/v1/swagger.json - -
+
+Time:2022-11-09 14:51:35.198  Level：[INF]-----[Microsoft.AspNetCore.Hosting.Diagnostics]
+Message: Request finished HTTP/1.1 GET http://localhost:5273/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 161.3835ms
+
+Time:2022-11-09 14:52:01.044  Level：[INF]-----[]
+Message: LogInformation
+
+Time:2022-11-09 14:52:01.068  Level：[WRN]-----[]
+Message: LogWarning
+
+Time:2022-11-09 14:52:01.068  Level：[ERR]-----[]
+Message: LogError
+
+Time:2022-11-09 14:52:01.069  Level：[FTL]-----[]
+Message: LogCritical
+
+Time:2022-11-09 14:52:01.803  Level：[INF]-----[Microsoft.Hosting.Lifetime]
+Message: Now listening on: http://localhost:5273
+
+Time:2022-11-09 14:52:01.811  Level：[INF]-----[Microsoft.Hosting.Lifetime]
+Message: Application started. Press Ctrl+C to shut down.
+
+Time:2022-11-09 14:52:01.812  Level：[INF]-----[Microsoft.Hosting.Lifetime]
+Message: Hosting environment: Development
+
+Time:2022-11-09 14:52:01.813  Level：[INF]-----[Microsoft.Hosting.Lifetime]
+Message: Content root path: D:\CodeDemo\.NET 6\App\SerilogDemo\
+
+Time:2022-11-09 15:12:32.440  Level：[INF]-----[]
+Message: LogInformation
+
+Time:2022-11-09 15:12:32.463  Level：[WRN]-----[]
+Message: LogWarning
+
+Time:2022-11-09 15:12:32.464  Level：[ERR]-----[]
+Message: LogError
+
+Time:2022-11-09 15:12:32.465  Level：[FTL]-----[]
+Message: LogCritical
+
+Time:2022-11-09 15:12:33.152  Level：[INF]-----[Microsoft.Hosting.Lifetime]
+Message: Now listening on: http://localhost:5273
+
+Time:2022-11-09 15:12:33.161  Level：[INF]-----[Microsoft.Hosting.Lifetime]
+Message: Application started. Press Ctrl+C to shut down.
+
+Time:2022-11-09 15:12:33.162  Level：[INF]-----[Microsoft.Hosting.Lifetime]
+Message: Hosting environment: Development
+
+Time:2022-11-09 15:12:33.163  Level：[INF]-----[Microsoft.Hosting.Lifetime]
+Message: Content root path: D:\CodeDemo\.NET 6\App\SerilogDemo\
+

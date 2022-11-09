@@ -29,3 +29,34 @@ D:\GitRepository\.Net6_Notes\ConfigurationFileDemo\bin\Debug\net6.0\jsonSettings
 D:\GitRepository\.Net6_Notes\ConfigurationFileDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Ini.dll
 D:\GitRepository\.Net6_Notes\ConfigurationFileDemo\bin\Debug\net6.0\iniSettings.ini
 D:\GitRepository\.Net6_Notes\ConfigurationFileDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\CodeDemo\.NET 6\App\ConfigurationFileDemo\bin\Debug\net6.0\ConfigurationFileDemo.exe
+D:\CodeDemo\.NET 6\App\ConfigurationFileDemo\bin\Debug\net6.0\iniSettings.ini
+D:\CodeDemo\.NET 6\App\ConfigurationFileDemo\bin\Debug\net6.0\jsonSettings.json
+D:\CodeDemo\.NET 6\App\ConfigurationFileDemo\bin\Debug\net6.0\ConfigurationFileDemo.deps.json
+D:\CodeDemo\.NET 6\App\ConfigurationFileDemo\bin\Debug\net6.0\ConfigurationFileDemo.runtimeconfig.json
+D:\CodeDemo\.NET 6\App\ConfigurationFileDemo\bin\Debug\net6.0\ConfigurationFileDemo.dll
+D:\CodeDemo\.NET 6\App\ConfigurationFileDemo\bin\Debug\net6.0\ConfigurationFileDemo.pdb
+D:\CodeDemo\.NET 6\App\ConfigurationFileDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\CodeDemo\.NET 6\App\ConfigurationFileDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CodeDemo\.NET 6\App\ConfigurationFileDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\CodeDemo\.NET 6\App\ConfigurationFileDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\CodeDemo\.NET 6\App\ConfigurationFileDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Ini.dll
+D:\CodeDemo\.NET 6\App\ConfigurationFileDemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\CodeDemo\.NET 6\App\ConfigurationFileDemo\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\CodeDemo\.NET 6\App\ConfigurationFileDemo\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\CodeDemo\.NET 6\App\ConfigurationFileDemo\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\CodeDemo\.NET 6\App\ConfigurationFileDemo\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\CodeDemo\.NET 6\App\ConfigurationFileDemo\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\CodeDemo\.NET 6\App\ConfigurationFileDemo\bin\Debug\net6.0\System.Text.Json.dll
+D:\CodeDemo\.NET 6\App\ConfigurationFileDemo\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\CodeDemo\.NET 6\App\ConfigurationFileDemo\obj\Debug\net6.0\ConfigurationFileDemo.csproj.AssemblyReference.cache
+D:\CodeDemo\.NET 6\App\ConfigurationFileDemo\obj\Debug\net6.0\ConfigurationFileDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeDemo\.NET 6\App\ConfigurationFileDemo\obj\Debug\net6.0\ConfigurationFileDemo.AssemblyInfoInputs.cache
+D:\CodeDemo\.NET 6\App\ConfigurationFileDemo\obj\Debug\net6.0\ConfigurationFileDemo.AssemblyInfo.cs
+D:\CodeDemo\.NET 6\App\ConfigurationFileDemo\obj\Debug\net6.0\ConfigurationFileDemo.csproj.CoreCompileInputs.cache
+D:\CodeDemo\.NET 6\App\ConfigurationFileDemo\obj\Debug\net6.0\ConfigurationFileDemo.csproj.CopyComplete
+D:\CodeDemo\.NET 6\App\ConfigurationFileDemo\obj\Debug\net6.0\ConfigurationFileDemo.dll
+D:\CodeDemo\.NET 6\App\ConfigurationFileDemo\obj\Debug\net6.0\refint\ConfigurationFileDemo.dll
+D:\CodeDemo\.NET 6\App\ConfigurationFileDemo\obj\Debug\net6.0\ConfigurationFileDemo.pdb
+D:\CodeDemo\.NET 6\App\ConfigurationFileDemo\obj\Debug\net6.0\ConfigurationFileDemo.genruntimeconfig.cache
+D:\CodeDemo\.NET 6\App\ConfigurationFileDemo\obj\Debug\net6.0\ref\ConfigurationFileDemo.dll

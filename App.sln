@@ -15,9 +15,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyInjectionAutofac"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.配置文件读取", "3.配置文件读取", "{084CA2F5-1812-470F-A18D-70488880C34D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigurationDemo", "ConfigurationDemo\ConfigurationDemo.csproj", "{AA2F1EA7-5A0F-4979-B74F-E7AEEEA135A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConfigurationDemo", "ConfigurationDemo\ConfigurationDemo.csproj", "{AA2F1EA7-5A0F-4979-B74F-E7AEEEA135A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigurationFileDemo", "ConfigurationFileDemo\ConfigurationFileDemo.csproj", "{0897421D-4A95-4F5D-8D87-3CF86A1263C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConfigurationFileDemo", "ConfigurationFileDemo\ConfigurationFileDemo.csproj", "{0897421D-4A95-4F5D-8D87-3CF86A1263C6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.日志框架", "4.日志框架", "{D0C8F08E-4CFF-4213-AD4A-12B16D5729EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerilogDemo", "SerilogDemo\SerilogDemo.csproj", "{461EB610-020D-4C9F-8175-ED2D0D341DC8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.中间件", "5.中间件", "{DBC546C5-370A-4163-A7A2-3E18B864BAA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddlewareDemo", "MiddlewareDemo\MiddlewareDemo.csproj", "{358BDBE6-0237-45A4-BFF7-3BEDADC7FEBB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +53,14 @@ Global
 		{0897421D-4A95-4F5D-8D87-3CF86A1263C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0897421D-4A95-4F5D-8D87-3CF86A1263C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0897421D-4A95-4F5D-8D87-3CF86A1263C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{461EB610-020D-4C9F-8175-ED2D0D341DC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{461EB610-020D-4C9F-8175-ED2D0D341DC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{461EB610-020D-4C9F-8175-ED2D0D341DC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{461EB610-020D-4C9F-8175-ED2D0D341DC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{358BDBE6-0237-45A4-BFF7-3BEDADC7FEBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{358BDBE6-0237-45A4-BFF7-3BEDADC7FEBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{358BDBE6-0237-45A4-BFF7-3BEDADC7FEBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{358BDBE6-0237-45A4-BFF7-3BEDADC7FEBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -55,6 +71,8 @@ Global
 		{4C0D4BBB-EDEB-4E68-AED6-8D1CEC0F0046} = {B8D0C64A-952C-4600-A18D-3FC3263A8381}
 		{AA2F1EA7-5A0F-4979-B74F-E7AEEEA135A6} = {084CA2F5-1812-470F-A18D-70488880C34D}
 		{0897421D-4A95-4F5D-8D87-3CF86A1263C6} = {084CA2F5-1812-470F-A18D-70488880C34D}
+		{461EB610-020D-4C9F-8175-ED2D0D341DC8} = {D0C8F08E-4CFF-4213-AD4A-12B16D5729EA}
+		{358BDBE6-0237-45A4-BFF7-3BEDADC7FEBB} = {DBC546C5-370A-4163-A7A2-3E18B864BAA8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6258066F-2788-461F-A8C2-E436A1DB7928}

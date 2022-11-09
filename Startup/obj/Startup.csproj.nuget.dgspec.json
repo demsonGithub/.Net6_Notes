@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitRepository\\.Net6_Notes\\Startup\\Startup.csproj": {}
+    "D:\\CodeDemo\\.NET 6\\App\\Startup\\Startup.csproj": {}
   },
   "projects": {
-    "D:\\GitRepository\\.Net6_Notes\\Startup\\Startup.csproj": {
+    "D:\\CodeDemo\\.NET 6\\App\\Startup\\Startup.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitRepository\\.Net6_Notes\\Startup\\Startup.csproj",
+        "projectUniqueName": "D:\\CodeDemo\\.NET 6\\App\\Startup\\Startup.csproj",
         "projectName": "Startup",
-        "projectPath": "D:\\GitRepository\\.Net6_Notes\\Startup\\Startup.csproj",
+        "projectPath": "D:\\CodeDemo\\.NET 6\\App\\Startup\\Startup.csproj",
         "packagesPath": "C:\\Users\\wangzhixiong\\.nuget\\packages\\",
-        "outputPath": "D:\\GitRepository\\.Net6_Notes\\Startup\\obj\\",
+        "outputPath": "D:\\CodeDemo\\.NET 6\\App\\Startup\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wangzhixiong\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

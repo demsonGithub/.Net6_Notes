@@ -630,11 +630,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitRepository\\.Net6_Notes\\ConfigurationFileDemo\\ConfigurationFileDemo.csproj",
+      "projectUniqueName": "D:\\CodeDemo\\.NET 6\\App\\ConfigurationFileDemo\\ConfigurationFileDemo.csproj",
       "projectName": "ConfigurationFileDemo",
-      "projectPath": "D:\\GitRepository\\.Net6_Notes\\ConfigurationFileDemo\\ConfigurationFileDemo.csproj",
+      "projectPath": "D:\\CodeDemo\\.NET 6\\App\\ConfigurationFileDemo\\ConfigurationFileDemo.csproj",
       "packagesPath": "C:\\Users\\wangzhixiong\\.nuget\\packages\\",
-      "outputPath": "D:\\GitRepository\\.Net6_Notes\\ConfigurationFileDemo\\obj\\",
+      "outputPath": "D:\\CodeDemo\\.NET 6\\App\\ConfigurationFileDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wangzhixiong\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -699,7 +699,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

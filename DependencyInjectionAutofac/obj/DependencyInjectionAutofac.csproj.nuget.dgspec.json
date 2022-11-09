@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitRepository\\.Net6_Notes\\DependencyInjectionAutofac\\DependencyInjectionAutofac.csproj": {}
+    "D:\\CodeDemo\\.NET 6\\App\\DependencyInjectionAutofac\\DependencyInjectionAutofac.csproj": {}
   },
   "projects": {
-    "D:\\GitRepository\\.Net6_Notes\\DependencyInjectionAutofac\\DependencyInjectionAutofac.csproj": {
+    "D:\\CodeDemo\\.NET 6\\App\\DependencyInjectionAutofac\\DependencyInjectionAutofac.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitRepository\\.Net6_Notes\\DependencyInjectionAutofac\\DependencyInjectionAutofac.csproj",
+        "projectUniqueName": "D:\\CodeDemo\\.NET 6\\App\\DependencyInjectionAutofac\\DependencyInjectionAutofac.csproj",
         "projectName": "DependencyInjectionAutofac",
-        "projectPath": "D:\\GitRepository\\.Net6_Notes\\DependencyInjectionAutofac\\DependencyInjectionAutofac.csproj",
+        "projectPath": "D:\\CodeDemo\\.NET 6\\App\\DependencyInjectionAutofac\\DependencyInjectionAutofac.csproj",
         "packagesPath": "C:\\Users\\wangzhixiong\\.nuget\\packages\\",
-        "outputPath": "D:\\GitRepository\\.Net6_Notes\\DependencyInjectionAutofac\\obj\\",
+        "outputPath": "D:\\CodeDemo\\.NET 6\\App\\DependencyInjectionAutofac\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wangzhixiong\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

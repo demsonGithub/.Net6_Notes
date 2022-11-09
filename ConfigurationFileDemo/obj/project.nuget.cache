@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ilqyW2t94VjPMwTLSnFTNTPCxksqlqpIoiaBX6gnuoQNKCrpVp+Tj2/plHQq2DIxuhvLHgqtL95g1Som+xmkIA==",
+  "dgSpecHash": "ulyE5FUWRbWWFePHmT2VUhaU/PsyQJtLXCZa6lnC4uIvaNntCEAETHqtRiRH/eSgFfJ5Qhq78K28ib+3m3dMrQ==",
   "success": true,
-  "projectFilePath": "D:\\GitRepository\\.Net6_Notes\\ConfigurationFileDemo\\ConfigurationFileDemo.csproj",
+  "projectFilePath": "D:\\CodeDemo\\.NET 6\\App\\ConfigurationFileDemo\\ConfigurationFileDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wangzhixiong\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\wangzhixiong\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
